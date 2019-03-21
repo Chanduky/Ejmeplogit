@@ -11,6 +11,8 @@ public class Ejemplogit {
         
         System.out.println("Hola people");
         System.out.println("El numero es"+num);
+        
+        System.out.println("Esto es una putamierda");
     }
     
 }
